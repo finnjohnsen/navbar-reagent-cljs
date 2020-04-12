@@ -1,0 +1,7 @@
+.idea
+*.iml
+/.cpcache/
+/.shadow-cljs/
+/node_modules/
+/package-lock.json
+resources/public/js
